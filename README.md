@@ -1,4 +1,4 @@
-# Profitability-Dynamics-in-SaaS-Transactions-An-Analytical-Review-of-AWS-Sales-Data-2020-2023
+# Profitability Dynamics in SaaS Transactions: An Analytical Review of AWS Sales Data(2020-2023)
 
 ## Background
 The global SaaS landscape has evolved rapidly, with Amazon Web Services (AWS) emerging as a dominant enabler. As SaaS demand surges, not all transactions are profitable—despite high sales volumes. This analysis explores the underlying factors driving negative profit in AWS SaaS transactions.
